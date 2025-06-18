@@ -45,3 +45,7 @@ Before we get started with the workshop itself, we'll make sure we have all the 
   - [Atlas docs](https://www.mongodb.com/docs/atlas/)
 
 - [mongoose docs](https://mongoosejs.com/docs/)
+
+
+## Recording (audio only)
+[Link here](https://auckland.zoom.us/rec/play/786gBV3PHrGSkYNzf5zMnRP7oMYIoQG242MSbC4wiiW66usGD3s8V_Zssu__qc3BrZby-LoqsHfCVaB7.jBDBiQHjzcrSCaOe?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fauckland.zoom.us%2Frec%2Fshare%2FwaBrf4CDtofD25y_XZxB-Nbya1nokr15O8D6Dwe-LgB4MjA7iZbvEviC1AX9n0HS.5MIxbTAMoL5ILItO)
