@@ -77,9 +77,10 @@
 
   /* Search input */
   & input {
+    font: inherit;
     background-color: #c22bf81a;
     border-radius: 8px;
-    border-style: none;
+    border-color: #c22bf81a;
     height: 28px;
     width: 188px;
     margin-bottom: 20px;
